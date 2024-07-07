@@ -11,5 +11,4 @@ SQLite
 Tools
 
 MySQL Workbench
-pgAdmin
 DB Browser for SQLite
